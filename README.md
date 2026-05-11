@@ -123,3 +123,13 @@
 - 钱学森《工程控制论》— 本教程的理论根基
 - 最初提出"用控制论组织 Agent 记忆体"思路的笔记作者及评论区所有实测反馈者
 - 所有在早期版本中帮助测试和改进架构的协作者
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=zeronesun%2Fcybernetic-your-agent&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=zeronesun/cybernetic-your-agent&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=zeronesun/cybernetic-your-agent&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=zeronesun/cybernetic-your-agent&type=date&legend=bottom-right" />
+ </picture>
+</a>
