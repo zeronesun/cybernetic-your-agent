@@ -1,6 +1,3 @@
-## `scripts/deployment-commands.md`
-
-```markdown
 # 部署指令清单
 
 本文件是教程第五章全部部署指令的纯提取版，不含解释。如果你已阅读第四章架构，可直接复制以下指令按顺序发给 Agent，快速完成部署。
@@ -359,4 +356,3 @@ skill_manage(action='create', name='user_profile_operations_v1', content='
 - [ ] 四个核心 Skill 已创建（delivery_gate / feedforward_startup / control_loop_review / user_profile_maintainer）
 - [ ] user_profile_operations_v1 已创建
 - [ ] 首次闭环测试走通
-```
