@@ -25,7 +25,7 @@
 에이전트에게 이 명령을 보내면 자동으로 전체 훈련을 완료합니다(약 40분):
 
 ```
-按 github.com/zeronesun/cybernetic-your-agent 的 scripts/deployment-commands.md 训练我。每步确认，完成后闭环测试。
+github.com/zeronesun/cybernetic-your-agent의 scripts/deployment-commands.md를 참조해서 나를 훈련시켜줘. 매 단계마다 확인해주고, 완료 후에 폐쇄 루프 테스트를 실행해줘.
 ```
 
 **전제 조건**: 에이전트가 GitHub에 접근하고, 메모리에 쓰고, 스킬을 생성할 수 있어야 합니다. 충족되지 않으면 아래 수동 단계를 따르세요.
