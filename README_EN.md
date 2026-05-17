@@ -22,6 +22,14 @@ It adapts the core ideas of Qian Xuesen's *Engineering Cybernetics* for modern A
 
 ## Quick Start
 
+Send this command to your agent, and it will automatically complete the full training (≈ 40 minutes):
+
+```
+按 github.com/zeronesun/cybernetic-your-agent 的 scripts/deployment-commands.md 训练我。每步确认，完成后闭环测试。
+```
+
+**Requirements**: Your agent must be able to access GitHub, write to memory, and create skills. If not met, follow the manual steps below.
+
 1. Make sure your agent platform has: **persistent memory** + **skills / procedural modules**
 2. Read the tutorial (in order is recommended, or at least read Chapter 1 to understand the approach)
 3. Go to [Chapter 5](chapters/05-deployment.md), copy-paste the instructions and deploy step by step (≈ 1 hour)

@@ -22,6 +22,14 @@
 
 ## 快速開始
 
+把這句話發給你的 Agent，它會自動完成整套訓練（約 40 分鐘）：
+
+```
+按 github.com/zeronesun/cybernetic-your-agent 的 scripts/deployment-commands.md 訓練我。每步確認，完成後閉環測試。
+```
+
+**適用條件**：Agent 需能訪問 GitHub、寫入記憶、創建技能。如果不滿足，請按下方手動步驟操作。
+
 1. 確認你的 Agent 平台具備：**持久化記憶** + **技能／程序性模組**
 2. 閱讀教學（建議按順序，或至少先讀第一章確認思路）
 3. 進入[第五章](chapters/05-deployment.md)，複製貼上指令按步驟部署（約 1 小時）
