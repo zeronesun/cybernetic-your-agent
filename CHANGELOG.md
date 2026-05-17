@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Simplified training workflow that enables automatic deployment with a single command
 
 ### Changed
+- **Restructured documentation organization**: Moved `PREFACE.md` to `chapters/00-PREFACE.md` and `EPILOGUE.md` to `chapters/08-EPILOGUE.md`
+- **Updated all translation directories** with new chapter structure for consistency across English, Japanese, Korean, and Traditional Chinese
 - Updated Korean README (`README_KO.md`) with native Korean translation for training command
 - Restored original Chinese version of `optimization-roadmap.md` after it was incorrectly overwritten
 - Improved technical terminology consistency across all language translations
