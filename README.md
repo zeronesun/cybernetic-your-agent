@@ -1,4 +1,4 @@
-[English](README_EN.md) | 简体中文 | [繁體中文](README_ZH_TW.md) | [한국어](README_KO.md)
+[English](translations/en/README.md) | 简体中文 | [繁體中文](translations/zh_TW/README.md) | [日本語](translations/ja/README.md) | [한국어](translations/ko/README.md) | [Русский](translations/ru/README.md) | [Deutsch](translations/de/README.md)
 
 # 用钱学森工程控制论训练 AI Agent
 

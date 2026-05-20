@@ -1,4 +1,4 @@
-[English](README_EN.md) | [简体中文](README.md) | [繁體中文](README_ZH_TW.md) | 한국어
+[English](../en/README.md) | [简体中文](../../README.md) | [繁體中文](../zh_TW/README.md) | [日本語](../ja/README.md) | 한국语 | [Русский](../ru/README.md) | [Deutsch](../de/README.md)
 
 # 첸쉐썬의 공학 사이버네틱스로 AI 에이전트 훈련하기
 
