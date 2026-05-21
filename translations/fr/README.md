@@ -129,7 +129,7 @@ Ce projet est sous licence [MIT License](LICENSE).
 ## Remerciements
 
 - L'*Ingénierie Cybernétique* de Qian Xuesen — la base théorique de ce tutoriel
-- L'auteur de la note originale qui a proposé pour la première fois l'idée d'"organiser la mémoire de l'agent avec la cybernétique" et tous ceux qui ont testé et fourni des commentaires dans la section des commentaires
+
 - Tous ceux qui ont aidé à tester et améliorer l'architecture dans ses premières versions
 
 ## Historique des Étoiles

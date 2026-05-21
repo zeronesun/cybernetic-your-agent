@@ -129,7 +129,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Qian Xuesen's *Engineering Cybernetics* — the theoretical foundation of this tutorial
-- The original note author who first proposed the idea of "organizing agent memory with cybernetics" and all those who tested and provided feedback in the comment section
+
 - Everyone who helped test and improve the architecture in its early versions
 
 ## Star History
