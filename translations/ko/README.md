@@ -129,7 +129,7 @@ github.com/zeronesun/cybernetic-your-agent의 scripts/deployment-commands.md를 
 ## 감사의 말
 
 - 첸쉐썬의 『공학 사이버네틱스』 — 이 튜토리얼의 이론적 기반
-- 최초로 "사이버네틱스로 에이전트 기억 체계를 조직"하는 아이디어를 제안한 노트 작성자와 댓글에서 테스트하고 피드백을 준 모든 분들
+
 - 초기 버전에서 아키텍처를 테스트하고 개선하는 데 도움을 준 모든 분
 
 ## Star History

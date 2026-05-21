@@ -129,7 +129,7 @@ Dieses Projekt ist unter der [MIT License](LICENSE) lizenziert.
 ## Danksagungen
 
 - Qian Xuesens *Engineering Cybernetics* — das theoretische Fundament dieses Tutorials
-- Der ursprüngliche Notiz-Autor, der zuerst die Idee "Agenten-Speicher mit Cybernetic ordenen" vorschlug und alle, die im Kommentar-Bereich testeten und Feedback gaben
+
 - Alle, die halfen, die Architektur in frühen Versionen zu testen und zu verbessern
 
 ## Star History
