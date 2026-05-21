@@ -1,4 +1,4 @@
-[English](../en/README.md) | [简体中文](../../README.md) | 繁體中文 | [日本語](../ja/README.md) | [한국어](../ko/README.md) | [Русский](../ru/README.md) | [Deutsch](../de/README.md)
+[English](../en/README.md) | [简体中文](../../README.md) | 繁體中文 | [日本語](../ja/README.md) | [한국어](../ko/README.md) | [Русский](../ru/README.md) | [Deutsch](../de/README.md) | [Español](../es/README.md)
 
 # 用錢學森工程控制論訓練 AI Agent
 

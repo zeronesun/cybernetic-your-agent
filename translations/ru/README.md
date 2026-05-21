@@ -1,4 +1,4 @@
-[English](../en/README.md) | [简体中文](../../README.md) | [繁体中文](../zh_TW/README.md) | [日本語](../ja/README.md) | [한국어](../ko/README.md) | Русский | [Deutsch](../de/README.md)
+[English](../en/README.md) | [简体中文](../../README.md) | [繁体中文](../zh_TW/README.md) | [日本語](../ja/README.md) | [한국어](../ko/README.md) | Русский | [Deutsch](../de/README.md) | [Español](../es/README.md)
 
 # Обучение AI-агента по инженерной кибернетике Цянь Сюэсэня
 

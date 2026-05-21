@@ -1,4 +1,4 @@
-[English](../en/README.md) | [简体中文](../../README.md) | [繁體中文](../zh_TW/README.md) | [日本語](../ja/README.md) | [한국어](../ko/README.md) | [Русский](../ru/README.md) | Deutsch
+[English](../en/README.md) | [简体中文](../../README.md) | [繁體中文](../zh_TW/README.md) | [日本語](../ja/README.md) | [한국어](../ko/README.md) | [Русский](../ru/README.md) | Deutsch | [Español](../es/README.md)
 
 # AI-Agenten mit Qian Xuesens Engineering Cybernetics trainieren
 
