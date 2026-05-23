@@ -133,8 +133,6 @@
 - 钱学森《工程控制论》— 本教程的理论根基
 - 欢迎所有在早期版本中帮助测试和改进架构的朋友
 
-## Star History
-
-## Star History
+## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/chart?repos=zeronesun/cybernetic-your-agent&type=date&legend=bottom-right)](https://www.star-history.com/?repos=zeronesun%2Fcybernetic-your-agent&type=date&legend=bottom-right)
