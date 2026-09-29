@@ -41,7 +41,7 @@
 
 | 章节   | 文件                                                         | 一句话内容                                   |
 | :----- | :----------------------------------------------------------- | :------------------------------------------- |
-| 序章   | [`PREFACE.md`](PREFACE.md)                                   | 为什么 AI 学会所有知识，却学不会"懂你"       |
+| 序章   | [`PREFACE.md`](chapters/00-PREFACE.md)                                   | 为什么 AI 学会所有知识，却学不会"懂你"       |
 | 第一章 | [`chapters/01-background.md`](chapters/01-background.md)     | 背景与核心理念                               |
 | 第二章 | [`chapters/02-prerequisites.md`](chapters/02-prerequisites.md) | 适用条件与准备工作                           |
 | 第三章 | [`chapters/03-core-theory.md`](chapters/03-core-theory.md)   | 四个控制论概念详解（前馈/积分/分离/自监控）  |
@@ -49,7 +49,7 @@
 | 第五章 | [`chapters/05-deployment.md`](chapters/05-deployment.md)     | 实操指南（分步骤部署指令，可直接复制）       |
 | 第六章 | [`chapters/06-daily-usage.md`](chapters/06-daily-usage.md)   | 日常使用与验证方法                           |
 | 第七章 | [`chapters/07-faq-extensions.md`](chapters/07-faq-extensions.md) | 常见问题排障 + 多 Agent / 新理论延伸         |
-| 结尾   | [`EPILOGUE.md`](EPILOGUE.md)                                 | 部署之后：架构的意义与后续方向               |
+| 结尾   | [`EPILOGUE.md`](chapters/08-EPILOGUE.md)                                 | 部署之后：架构的意义与后续方向               |
 
 ### 文件命名说明
 
@@ -110,7 +110,7 @@
 >
 > 你不是在教 Agent 什么新的知识，而是在用系统工程的思维，为它设计一套能稳定运行、持续进化的内部架构。
 
-更多背景和理念阐述，见[序章](PREFACE.md)和[第一章](chapters/01-background.md)。
+更多背景和理念阐述，见[序章](chapters/00-PREFACE.md)和[第一章](chapters/01-background.md)。
 
 ---
 
